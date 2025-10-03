@@ -1,0 +1,25 @@
+h1{
+    font-family: cambria;
+    font-weight: normal;
+}
+header{
+    width: 20%;
+    height: 100px;
+    background-color: red;
+    float: left;
+}
+nav{
+    font-variant-caps: all-small-caps;
+    font-size: 20px;
+    width: 80%;
+    height: 100px;
+    float: left;
+    background-color: green;
+}
+nav ul li{
+    display: inline;
+    padding-left:20px;
+}
+footer{
+    
+}

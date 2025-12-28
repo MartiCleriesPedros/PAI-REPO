@@ -15,11 +15,19 @@ nav{
     height: 100px;
     float: left;
     background-color: green;
+    text-align: right; 
+    line-height: 100px;
+    vertical-align: bottom;
 }
 nav ul li{
     display: inline;
     padding-left:20px;
+    padding-right:20px;
+}
+section{
+    background-color: blue;
 }
 footer{
-    
+    background-color: yellow;
+    clear:both;
 }
